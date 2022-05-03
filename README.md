@@ -9,15 +9,15 @@ My interests are focused on Machine Learning, Data Science and Software Engineer
  - Bachelor of Science in Computer Engineering at `Politecnico di Milano`
 
 :pushpin: **Some of my projects:**
- - [TV Shows RecSys - Recommender Systems Challenge](https://github.com/fulcus/recommender-systems-challenge)
- - [Image Classification, Segmentation and VQA - Computer Vision Challenges](https://github.com/fulcus/3neurons-artificial-neural-networks-and-deep-learning)
- - [Failure Prediciton - Data Mining Project](https://github.com/fulcus/data-mining-and-text-mining-challenge)
- - [Santorini Desktop Game](https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris)
- - [UrbanHunt Mobile App](https://github.com/fulcus/urbanhunt)
- - [Text Editor](https://github.com/fulcus/text-editor)
-- Full Stack Web Projects (by backend)
+ - [TV Shows RecSys](https://github.com/fulcus/recommender-systems-challenge) - Recommender Systems Kaggle Challenge
+ - [Image Classification, Segmentation and VQA](https://github.com/fulcus/3neurons-artificial-neural-networks-and-deep-learning) - Computer Vision Kaggle Challenges
+ - [Failure Prediction](https://github.com/fulcus/data-mining-and-text-mining-challenge) - Data Mining Project
+ - [Santorini Desktop Game](https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris) - Software Engineering Project
+ - [UrbanHunt](https://github.com/fulcus/urbanhunt) - Mobile App
+ - [Text Editor](https://github.com/fulcus/text-editor) - Algorithms and Data Structures Project
+- Full Stack Web Projects (by backend stack)
   -  [Java EE & MySQL](https://github.com/fulcus/marketing-app)
   -  [Express & MongoDB](https://github.com/fulcus/marketing-app) 
   -  [JS & Neo4j](https://github.com/fulcus/neo4j-covid19-db)
 
-:loudspeaker: **Contact:** me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/) or :email: `francescofgonzales@gmail.com`
+:loudspeaker: **Contact me** on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/) or :email: `francescofgonzales@gmail.com`
