@@ -17,7 +17,7 @@ My interests are focused on Machine Learning, Data Science and Software Engineer
  - [Text Editor](https://github.com/fulcus/text-editor) - Algorithms and Data Structures Project
 - Full Stack Web Projects (by backend stack)
   -  [Java EE & MySQL](https://github.com/fulcus/marketing-app)
-  -  [Express & MongoDB](https://github.com/fulcus/marketing-app) 
+  -  [Express & MongoDB](https://github.com/fulcus/mongodb-covid19-db) 
   -  [JS & Neo4j](https://github.com/fulcus/neo4j-covid19-db)
 
-:loudspeaker: **Contact me** on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/) or :email: `francescofgonzales@gmail.com`
+:loudspeaker: **Contact me** on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/)
