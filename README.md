@@ -1,23 +1,22 @@
-## Hi there 👋
+## Welcome to my github profile
 
 
-My name is Francesco Gonzales and I'm a Computer Science and Engineering student at Politecnico di Milano. I am currently writing my **Master's Thesis** about **Clustering** and **Reinforcement Learning**, called _"Multiple Source Feedback Clustering"_.
-My interests are focused on Machine Learning, Data Science and Software Engineering applied to these fields.
+My name is Francesco Gonzales, I'm a Computer Science and Engineering student at Politecnico di Milano. My interests are Machine Learning and Software Engineering. 
 
-:mortar_board: **Education:**
- - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
- - Bachelor of Science in Computer Engineering at `Politecnico di Milano`
+I am currently writing my Master's Thesis on **Clustering of Multi-Armed Bandits** (Reinforcement Learning) [[code]](https://github.com/fulcus/clustering-bandits).
 
-:pushpin: **Some of my projects:**
- - [TV Shows RecSys](https://github.com/fulcus/recommender-systems-challenge) - Recommender Systems Kaggle Challenge
- - [Image Classification, Segmentation and VQA](https://github.com/fulcus/3neurons-artificial-neural-networks-and-deep-learning) - Computer Vision Kaggle Challenges
- - [Failure Prediction](https://github.com/fulcus/data-mining-and-text-mining-challenge) - Data Mining Project
- - [Santorini Desktop Game](https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris) - Software Engineering Project
- - [UrbanHunt](https://github.com/fulcus/urbanhunt) - Mobile App
- - [Text Editor](https://github.com/fulcus/text-editor) - Algorithms and Data Structures Project
-- Full Stack Web Projects (by backend stack)
-  -  [Java EE & MySQL](https://github.com/fulcus/marketing-app)
-  -  [Express & MongoDB](https://github.com/fulcus/mongodb-covid19-db) 
-  -  [JS & Neo4j](https://github.com/fulcus/neo4j-covid19-db)
+### Some Projects
+#### Machine Learning
+ - Recommender Systems for TV Shows [[repo]](https://github.com/fulcus/recommender-systems-challenge)
+ - Computer Vision: Image Classification, Segmentation and VQA [[repo]](https://github.com/fulcus/3neurons-artificial-neural-networks-and-deep-learning)
+ - Failure Prediction: an end-to-end data science project [[repo]](https://github.com/fulcus/data-mining-and-text-mining-challenge)
+ #### Software
+ - Online multiplayer Board Game in Java [[repo]](https://github.com/fulcus/ing-sw-2020-gonzales-latino-fabris)
+ - Android app in Flutter (with backend & APIs) [[repo]](https://github.com/fulcus/urbanhunt)
+ - A text editor inspired by Unix's ed (implemented in C only using libc) [[repo]](https://github.com/fulcus/text-editor)
+- Full Stack projects (by backend stack)
+  -  Java EE & MySQL [[repo]](https://github.com/fulcus/marketing-app)
+  -  NodeJS/Express & MongoDB [[repo]](https://github.com/fulcus/mongodb-covid19-db) 
+  -  Vanilla JS & Neo4j [[repo]](https://github.com/fulcus/neo4j-covid19-db)
 
-:loudspeaker: **Contact me** on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/)
+Feel free to contact me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francescogonzales/) to chat or collab :)
