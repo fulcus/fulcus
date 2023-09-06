@@ -1,11 +1,11 @@
 ## Welcome to my github profile
 
 
-Hi, my name is Francesco Gonzales. Here you will find my university projects (Computer Science and Engineering at Politecnico di Milano) and my side projects, primarily in Machine Learning and Software Engineering.
+Hi, my name is Francesco Gonzales. Here you will find my side projects and university projects (Computer Science and Engineering at Politecnico di Milano), primarily in Machine Learning and Software Engineering.
 
 ### My projects
 #### Machine Learning
- - Clustering of Multi-Armed Bandits (my thesis) [[repo]](https://github.com/fulcus/clustering-bandits)
+ - Partitioned Linear Bandit Algorithm (my master's thesis) [[repo]](https://github.com/fulcus/p-linucb)
  - Recommender Systems for TV Shows [[repo]](https://github.com/fulcus/recommender-systems-challenge)
  - Computer Vision: Image Classification, Segmentation and VQA [[repo]](https://github.com/fulcus/3neurons-artificial-neural-networks-and-deep-learning)
  - Failure Prediction: an end-to-end data science project [[repo]](https://github.com/fulcus/data-mining-and-text-mining-challenge)
